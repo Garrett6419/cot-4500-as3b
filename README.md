@@ -2,7 +2,7 @@
 
 ## Programming Assignment 3b for COT 4500: Numerical Methods
 
-This repository contains implementations of numerical methods for solving differential equations, focusing on Gaussian elimination, LU factorization, and matrix properties.
+This repository contains implementations of numerical methods for focusing on Gaussian elimination, LU factorization, and matrix properties.
 
 ### Required Libraries
 - Before running the code, ensure you have the necessary libraries installed. You can find these libraries listed in `requirements.txt`.
